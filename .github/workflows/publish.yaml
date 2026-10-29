@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - nexus
+      - main 
 
 jobs:
   deploy:
